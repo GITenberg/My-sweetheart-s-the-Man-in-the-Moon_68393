@@ -1,0 +1,49 @@
+_repo: My-sweetheart-s-the-Man-in-the-Moon_68393
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Stallman, Emmanuel
+    alias: Stallman, Manny
+    birthdate: 1927
+    deathdate: 1997
+    gutenberg_agent_id: '54003'
+    url: http://www.gutenberg.org/2009/agents/54003
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Ridgway, Jason
+    - Granger, Darius John
+    - Wilder, Stephen
+    - Lesser, Milton
+    - Thames, C. H.
+    - Chase, Adam
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: https://en.wikipedia.org/wiki/Stephen_Marlowe
+description: ''
+gutenberg_issued: '2022-06-24'
+identifiers:
+  gutenberg: '68393'
+language: en
+pgterms:marc905: 20220219063247lesser
+pgterms:marc906: '1956'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Royal Publications, Inc,1956.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiancées -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Space flight to the moon -- Fiction'
+- GITenberg
+title: My sweetheart's the Man in the Moon
+url: http://www.gutenberg.org/ebooks/68393
